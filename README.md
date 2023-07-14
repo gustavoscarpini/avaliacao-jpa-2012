@@ -1,4 +1,4 @@
-avaliacao-jpa-2012
+POS JAVA 2033 - Avaliação
 ==================
 
-Avaliação de JPA - Turma 2012
+Projeto base para aplicação da avaliação final para as aulas de Persistencia com JAVA.
